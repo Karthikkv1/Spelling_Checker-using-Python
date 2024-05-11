@@ -1,7 +1,5 @@
 
 
----
-
 # Spelling Checker
 
 This Python application checks the spelling of a word or phrase entered by the user using the TextBlob library and provides suggestions for corrections. It utilizes the Tkinter library for the graphical user interface (GUI).
